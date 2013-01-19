@@ -1,4 +1,4 @@
 first_app
 =========
 
-bienvenu 
+bienvenu dans mon application
